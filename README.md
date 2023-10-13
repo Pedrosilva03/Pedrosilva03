@@ -3,8 +3,6 @@
 
 <h3 align="center"> University of Minho </h3>
 
-#
-
 <p align="center"> 🌱 I’m currently learning software development 🌱 </p>
 
 #
@@ -27,10 +25,14 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
+
+#
   
 <div align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrosilva03&theme=codeSTACKr&count_private=true&hide=contribs&hide_border=true" height="180rem"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva03&theme=codeSTACKr&layout=compact&hide_border=true&hide=html,css,tex,scss,less" height="180rem"/>
 </div>
+
+---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedrosilva03&label=Profile%20views&color=0e75b6&style=flat" alt="pedrosilva03" /> </p>
