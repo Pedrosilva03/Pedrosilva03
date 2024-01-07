@@ -30,7 +30,7 @@
 
 <div align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrosilva03&theme=codeSTACKr&count_private=true&hide=contribs&hide_border=true" height="180rem"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva03&theme=codeSTACKr&layout=compact&hide_border=true&hide=html,css,tex,scss,less" height="180rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva03&theme=codeSTACKr&layout=compact&hide_border=true&hide=html,css,tex,scss,less" width="600" height="180rem"/>
 </div>
 
 ---
