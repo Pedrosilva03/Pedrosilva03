@@ -26,11 +26,15 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<hr style="height:30 pt; visibility:hidden;" />
+#
 
 <div align="center" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrosilva03&theme=codeSTACKr&count_private=true&hide=contribs&hide_border=true" height="180rem"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva03&theme=codeSTACKr&layout=compact&hide_border=true&hide=html,css,tex,scss,less" width="600" height="180rem"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrosilva03&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva03&theme=tokyonight&layout=compact&langs_count=8&exclude_repo=adi-learning-models&hide_border=true" />
+  </a>
 </div>
 
 ---
