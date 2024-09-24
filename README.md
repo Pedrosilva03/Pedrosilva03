@@ -4,7 +4,15 @@
 
 <h3 align="center">University of Minho</h3>
 
-<h5 align="center">🌱 I’m currently learning software development 🌱</h5>
+<h4 align="center">🌱 I’m currently learning software development 🌱</h4>
+
+#
+
+<h3 align="center">A bit more about me:</h3>
+
+- I'm 21 years old.
+- I like learning languages, and I already speak 4 almost fluently: Portuguese, English, Spanish and French (Currently learning Polish and German).
+- Always looking for new projects to engage on.
 
 #
 
