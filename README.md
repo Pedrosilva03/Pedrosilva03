@@ -46,7 +46,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrosilva03&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva03&theme=tokyonight&layout=compact&langs_count=8&exclude_repo=adi-learning-models&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva03&theme=tokyonight&layout=compact&langs_count=8&exclude_repo=adi-learning-models&hide=ROFF&hide_border=true" />
   </a>
 </div>
 
