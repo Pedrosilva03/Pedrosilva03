@@ -10,7 +10,7 @@
 
 <h3 align="center">A bit more about me:</h3>
 
-- I'm 21 years old.
+- I'm 22 years old.
 - I like learning languages, and I already speak 4 almost fluently: Portuguese, English, Spanish and French (Currently learning Polish and German).
 - Always looking for new projects to engage on.
 - I'm addicted to C and Java (people call me crazy)
