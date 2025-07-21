@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pedro Silva</h1>
 
-<h3 align="center">Software and Computer Engineering Student</h3>
+<h3 align="center">Software Engineering Masters Student</h3>
 
 <h3 align="center">University of Minho</h3>
-
-<h4 align="center">🌱 I’m currently learning software development 🌱</h4>
 
 #
 
 <h3 align="center">A bit more about me:</h3>
 
 - I'm 22 years old.
-- I like learning languages, and I already speak 4 almost fluently: Portuguese, English, Spanish and French (Currently learning Polish and German).
+- I like learning languages, and I already speak 4 almost fluently: Portuguese, English, Spanish and French (Currently learning German).
 - Always looking for new projects to engage on.
 - I'm addicted to C and Java (people call me crazy)
 - Currently starting my journey into the world of android apps
